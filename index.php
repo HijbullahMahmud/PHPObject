@@ -12,6 +12,7 @@ class Cal{
   public function __construct($first_number, $second_number){
    $this->first_number = $first_number;
    $this->second_number = $second_number;
+   
   }
 
   public function mySum() {
